@@ -6,3 +6,14 @@
 
 3-print_alphabets - Prints the alphabet in lowercase then in uppercase.
 
+4-print_alphabt - Prints the alphabet in lowercase.
+
+5-print_numbers - Prints all single digit numbers of base 10 starting from 0.
+
+6-print_numberz - Prints all single digit numbers of base 10 starting from 0.
+
+7-print_tebahpla - Prints the lowercase alphabet in reverse.
+
+8-print_base16 - Prints all the numbers of base 16 in lowercase.
+
+9-print_comb - Prints all possible combinations of single-digit numbers.
