@@ -4,3 +4,5 @@
 
 2-print_alphabet - Prints the alphabet in lowercase followed by a new line.
 
+3-print_alphabets - Prints the alphabet in lowercase then in uppercase.
+
