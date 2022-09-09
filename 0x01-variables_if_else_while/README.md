@@ -2,3 +2,5 @@
 
 1-last_digit - Assigns a random number to the variable n each time it's executed.
 
+2-print_alphabet - Prints the alphabet in lowercase followed by a new line.
+
