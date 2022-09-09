@@ -17,3 +17,9 @@
 8-print_base16 - Prints all the numbers of base 16 in lowercase.
 
 9-print_comb - Prints all possible combinations of single-digit numbers.
+
+100-print_comb3.c - Prints all possible different combinations of two digits.
+
+101-print_comb4.c - Prints all possible different combinations of three digits.
+
+102-print_comb5.c - Prints all possible combinations of 2 two-digit numbers.
