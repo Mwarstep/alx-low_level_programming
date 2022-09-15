@@ -16,10 +16,10 @@ int main(void)
 	{
 		if (y != 23065011074)
 		{
-			printf("%ld,", y);
+			printf("%ld, ", y);
 		} else
 		{
-			printf("%ld\n", y);
+			printf("%ld\n ", y);
 		}
 		next = y + z;
 		y = z;
