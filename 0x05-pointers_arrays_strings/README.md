@@ -20,4 +20,6 @@
 
 100-atoi.c - Converts a string to an integer.
 
+101-keygen.c - Generates random valid passwords for the program 101-crackme.
+
 main.h - [Header File] Contains all the prototypes.
