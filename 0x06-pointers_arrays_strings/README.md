@@ -12,4 +12,6 @@
 
 6-cap_string.c -
 
-7-leet.c - 
+7-leet.c -
+
+main.h - [Header File] Contains all the function prototypes. 
