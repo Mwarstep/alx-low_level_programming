@@ -3,15 +3,15 @@
  * infinite_add -  adds two numbers
  * @n1: first number
  * @n2: second number
- * @r: result
- * @size_r: result length
+ * @r: the buffer that the function will use to store result
+ * @size_r: buffer size
  * Return: sum
  *
  */
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 
 {
-/* local variable declaration */
+
 	int i = 0, j = 0, k, l = 0, f, s, d = 0;
 
 	while (n1[i] != '\0')
