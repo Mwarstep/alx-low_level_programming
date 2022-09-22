@@ -11,7 +11,7 @@
 
 char *_strncpy(char *dest, char *src, int n)
 {
-	int = z;
+	int z;
 
 	z = 0;
 
