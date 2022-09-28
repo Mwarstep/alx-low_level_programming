@@ -1,13 +1,13 @@
 #include "main.h"
 
+int actual_sqrt_recursion(int n, int i);
+
 /**
  * _sqrt_recursion - Will return the natual square root of a number
  * @n: The number to calculate its sqare root
  *
  * Return: The square root
  */
-
-int actual_sqrt_recursion(int n, int i);
 
 int _sqrt_recursion(int n)
 {
