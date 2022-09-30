@@ -8,7 +8,7 @@
  * Return: 0
  */
 
-int main(__atribute__((unused)) int argc, char *argv[])
+int main(__attribute__((unused)) int argc, char *argv[])
 {
 	int x = 0;
 
