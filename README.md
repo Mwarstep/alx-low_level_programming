@@ -22,3 +22,7 @@ Directories present:
 
 9. 0x08-recursion
 
+10. 0x09-static_libraries
+
+11. 0x0A-argc_argv
+
