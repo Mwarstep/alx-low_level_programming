@@ -9,7 +9,7 @@
  * Return: The poiner to the grid, othewise NULL.
  */
 
-char **alloc_grid(int width, int height)
+int **alloc_grid(int width, int height)
 {
 	int **grid, x, y;
 
