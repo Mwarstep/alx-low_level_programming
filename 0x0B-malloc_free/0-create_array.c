@@ -29,7 +29,7 @@ char *create_array(unsigned int size, char c)
 		*(x + i) = c;
 		i++;
 	}
-	*(x = i) = '\0';
+	*(x + i) = '\0';
 
 	return (x);
 }
