@@ -1,5 +1,7 @@
 #include "3-calc.h"
 #include <stdio.h>
+#include <stdlib.h>
+
 /**
  * main - will calculate operations
  * @argc: the number of arguments
@@ -11,7 +13,7 @@ int main(int argc, char *argv[])
 {
 	int (*func)(int, int);
 	char x;
-	int arg1, arg2, ans;
+	int arg1, arg2, result;
 
 	if (argc != 4)
 	{
@@ -35,8 +37,8 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(100);
 	}
-	ans = func(arg1, arg2);
+	result = func(arg1, arg2);
 
-	printf("%d\n", ans);
+	printf("%d\n", result);
 	return (0);
 }
