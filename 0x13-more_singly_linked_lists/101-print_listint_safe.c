@@ -1,5 +1,6 @@
 #include "lists.h"
 #include <stdio.h>
+#include <string.h>
 
 /**
  * print_listint_safe -will print a listint_t linked list
