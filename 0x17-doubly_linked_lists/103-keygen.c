@@ -4,7 +4,7 @@
 
 /**
  * f4 - will find the biggest number
- * @usrn: Lenght of username
+ * @usrn: Length of username
  * @len: The length of the username
  *
  * Return: The buggest number
