@@ -1,7 +1,7 @@
 #include "search_algos.h"
 
 /**
- * jump_search - Will search for a value in a sorted array of integers using
+ * jump_search - will search for a value in a sorted array of integers using
  * the Jump Search Algorithm
  * @array: Pointer to the first element of the array to search
  * @size: The size of array

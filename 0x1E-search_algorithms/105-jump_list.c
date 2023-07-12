@@ -1,7 +1,7 @@
 #include "search_algos.h"
 
 /**
- * jump_list - Will search for an algorithm in a sorted list using the Jump
+ * jump_list - will search for an algorithm in a sorted list using the Jump
  * Search Algorithm
  * @list: Pointer to the head of the linked list
  * @size: Number of nodes in list
